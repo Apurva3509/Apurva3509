@@ -34,9 +34,9 @@ I am Apurva Patel, MS student at Columbia University studying ML and AI <img src
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scipy/scipy-original-wordmark.svg" title="SciPy" alt="SciPy" width="40" height="40" />&nbsp;
-  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" title="MLflow" alt="MLflow" width="40" height="40" />&nbsp;
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" title="LaTeX" alt="LaTeX" width="40" height="40" />&nbsp;
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="40" height="40" />&nbsp;
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" title="MLflow" alt="MLflow" width="70" height="40" />&nbsp;
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" title="LaTeX" alt="LaTeX" width="70" height="40" />&nbsp;
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="70" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" />&nbsp;
@@ -57,7 +57,6 @@ I am Apurva Patel, MS student at Columbia University studying ML and AI <img src
 # 📊 GitHub Stats:
 ---
  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Apurva3509&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Apurva3509&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva3509&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
